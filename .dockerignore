@@ -1,0 +1,17 @@
+.git
+.gitignore
+.env
+.env.local
+.claude/
+venv/
+__pycache__/
+*.pyc
+media/
+frontend/node_modules/
+frontend/dist/
+node_modules/
+*.md
+docker-compose.yml
+docker-compose.override.yml
+.dockerignore
+Dockerfile
